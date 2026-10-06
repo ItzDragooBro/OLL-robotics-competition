@@ -1,10 +1,12 @@
-Main components:-
-Arduino Uno
-2WD chassis
-2 BO motors
-L293D motor-driver module
-HC-SR04 ultrasonic sensor
-5 push buttons
-Jumper wires
-Battery pack
-Cardboard/acrylic for your controller
+Required Components
+Arduino Board (e.g., Arduino UNO or Nano)
+
+2WD or 4WD Robot Car Chassis (includes TT gear motors and wheels)
+
+Motor Driver Module (L298N or WitPro Motor Driver Block)
+
+Wireless Module (HC-05 Bluetooth, IR receiver, or Wi-Fi block)
+
+Battery Power Source (e.g., 2x 18650 Li-ion batteries or a 9V battery pack)
+
+Jumper Wires (Male-to-Male and Male-to-Female)
