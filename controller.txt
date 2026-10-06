@@ -1,0 +1,10 @@
+Main components:-
+Arduino Uno
+2WD chassis
+2 BO motors
+L293D motor-driver module
+HC-SR04 ultrasonic sensor
+5 push buttons
+Jumper wires
+Battery pack
+Cardboard/acrylic for your controller
